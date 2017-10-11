@@ -1,4 +1,6 @@
--- mod_hello.lua
+-- -*- lua -*-
+
+-- mod_mdconv.lua
 local stanza = require "util.stanza"; -- Import Prosody's stanza API into 'stanza'
 local pacakge = require("package"); -- import dumper
 local debug = require("debug"); -- import dumper
